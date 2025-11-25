@@ -1,1 +1,2 @@
-# Software-engineering-methodology
+# Описание проекта "Access Checker"
+Access Checker - система, определяющая уровень доступности веб-сайта по требованиям WCAG.
